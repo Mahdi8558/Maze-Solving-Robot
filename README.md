@@ -1,4 +1,5 @@
-# Maze-Solving-Robot
-small student group of sutech university to learn and make maze robot
+#micro_mouse
+We are a four member engineering team developiing an autonomous Micromouse robot capable of exploring and solving a maze efficiently. 
+Our micro mouse called "" will compute the shortest path to the center and performs an optimized speed run.
 
-**Group members: Mahdi Gholami , Arshia Adinepour ,  Amirali Samardeh  , Alireza Roostaei **
+**Team Participants: Mahdi Gholami , Arshia Adinepour ,  Amirali Samardeh  , Alireza Roostaei **
